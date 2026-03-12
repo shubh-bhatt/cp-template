@@ -4,18 +4,16 @@
 */
 
 #include <bits/stdc++.h>
-
 using namespace std;
 
-#define endl '\n'
-#define int long long
+using ll = long long;
 
 const int MOD = 1e9 + 7;
-const int INF = LLONG_MAX >> 1;
+const ll INF = 1e18;
 
 int main() {
     ios::sync_with_stdio(false);
-    cin.tie(NULL);
+    cin.tie(nullptr);
 
     return 0;
 }
